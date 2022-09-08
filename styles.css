@@ -1,5 +1,5 @@
 .header-homepage .header-inner  h1 {
-    text-align: center;
+    text-align: center !important;
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
