@@ -1,6 +1,10 @@
 .header-homepage .header-inner  h1 {
-    text-align: center !important;
+    text-align: center;
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
+}
+
+body {
+    color: red !important;
 }
